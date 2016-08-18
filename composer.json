@@ -3,7 +3,7 @@
     "description": "fire app template",
     "type": "project",
     "require": {
-        "huaiguoguo/fire": "dev"
+        "huaiguoguo/fire": "1.0"
     },
     "license": "BSD-3-Clause",
     "authors": [
