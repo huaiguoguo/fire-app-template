@@ -5,6 +5,10 @@
     "require": {
         "huaiguoguo/fire": ">=1.0"
     },
+    "support": {
+        "issues": "https://github.com/huaiguoguo/fire-app-template/issues?state=open",
+        "source": "https://github.com/huaiguoguo/fire-app-template"
+    },
     "license": "BSD-3-Clause",
     "authors": [
         {
