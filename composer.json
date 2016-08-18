@@ -1,0 +1,34 @@
+{
+    "name": "huaiguoguo/fire-app-template",
+    "description": "Fire app template",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/huaiguoguo/fire/issues?state=open",
+        "source": "https://github.com/huaiguoguo/fire"
+    },
+    "authors": [
+        {
+            "name": "huaiguoguo",
+            "email": "290559038@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0",
+        "huaiguoguo/fire-app-template": ">=2.0.6"
+    },
+    "require-dev": {
+        "codeception/base": "^2.2.3",
+        "codeception/verify": "~0.3.1"
+    },
+    "config": {
+        "process-timeout": 1800
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
